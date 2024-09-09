@@ -270,6 +270,9 @@ def play_tic_tac():
         draw_marks()
         
         for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                pygame.quit()
+                sys.exit()
 
             if event.type == pygame.MOUSEBUTTONDOWN and not game_over and current_turn == player:
                 pos = pygame.mouse.get_pos()
