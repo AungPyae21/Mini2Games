@@ -1,1 +1,10 @@
-This file is about the two arcade games.The snake game and tic tac toe game.They are made with Python.
+Project Description
+Overviews
+The project is about the two simple arcade games. There are snake arcade game and tic tac toe game. You can choose which game want to play at the user interface that appears when the program starts. At there, you can see three buttons that means which game want to play and quit. When you click the first button, the snake game will start and you can play. When that game is over, you will see another display that shows play again the same game or back to the main menu or quit from game. And, you can see the same logic when you play the tic tac toe game. Game logic is completely different. The same point is that when the game is over, screen that displayed the first game is over will appear again. Moreover, the background music, sound effects, button with colors, hovering colors and smooth user interface can be seen. For the snake game, you can see a snake moving its direction which is controlled by keyboard’s key buttons. The food is random spawn and when the snake eat that its body will longer. When the snake hit the borders or collide itself, the game is over. For the Tic Tac Toe Game, you will play with computer as a competitor. You can mark with mouse cursor and if you have done, the computer will mark automatically and randomly after 2 seconds. If the same marks equal in column or in row or cross, that player wins. The purpose of this program is about the pygame, how to make buttons, graphic, sound, how to create beautiful and smooth user interface. The goal is simple arcade games that you can relax and play when you feel stressed out and exhausted.
+
+Set up Instructions
+• To run the program, you only need two requirements and set up instructions. Firstly, you need to install Python in your own laptop or computer.
+• To download python, you can go to the official python website and can download the relative file that will suit with your device.
+E.g, window, mac or linux, etc.
+• You also need to download pygame library.
+• To download that, you can follow the similar instructions that

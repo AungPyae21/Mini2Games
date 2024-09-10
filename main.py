@@ -258,6 +258,7 @@ def get_cell_index(pos):
     col = x // 200
     return row * 3 + col
 
+#main program for playing tic tac toe game
 def play_tic_tac():
     pygame.display.set_caption("Tic tac toe game")
     BGMUSIC.stop()
